@@ -1,3 +1,3 @@
 # printf
-Compiler: clang-12
-Texteditor: vim
+Verwendeter Compiler: clang-12
+Verwendeter Texteditor: vim
